@@ -1,4 +1,4 @@
-# GNOME Fetch Panel
+# BeatFetch GUI (STILL IN BETA)
 
 A native GTK4 + libadwaita GUI version of the tmux dashboard in the
 screenshot: a system-info card, a **now playing** card with real
